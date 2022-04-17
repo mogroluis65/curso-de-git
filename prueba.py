@@ -1,3 +1,5 @@
+from aplicacion_fact import aplicacion
+
 cadena1='hello, world'
 print(cadena1)
 perro=cadena1.replace( ', ' , ' : ')
@@ -13,9 +15,10 @@ while aux<=10:
 
  
 
-
+print("proyecto empresarial")
 
 text = "Apples taste Good."
 print(text)
 gato=text.replace('Apples', 'Bananas')
 print(gato)
+aplicacion1=aplicacion()
