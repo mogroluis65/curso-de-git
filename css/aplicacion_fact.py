@@ -29,4 +29,5 @@ class aplicacion:
 class botones_aplicacion:
     pass
             
-aplicacion1=aplicacion()        
+aplicacion1=aplicacion() 
+print    
