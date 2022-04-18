@@ -20,5 +20,6 @@ print("proyecto empresarial")
 text = "Apples taste Good."
 print(text)
 gato=text.replace('Apples', 'Bananas')
-print(gato)
+print("gato")
+print("cambios en la clase")
 aplicacion1=aplicacion()
