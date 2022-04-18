@@ -27,7 +27,8 @@ class aplicacion:
     def productos(self):
        pass 
 class botones_aplicacion:
-    pass
+    def __init__(self,producto)
+       self.producto=producto
             
 aplicacion1=aplicacion() 
 print    
